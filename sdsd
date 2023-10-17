@@ -1,0 +1,73 @@
+[33mcommit 6ed1ebc8006d247d50cf9fe34daa52f7791a6bf8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Tue Oct 17 23:38:31 2023 +0530
+
+    checking again
+
+[33mcommit 22e977929f7da81962cbc53d07e5192f5007c441[m
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Tue Oct 17 23:35:22 2023 +0530
+
+    Ignore large file
+
+[33mcommit 244045ab6c7213f81fb56d3605a3585b3fd10b96[m
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Tue Oct 17 23:31:23 2023 +0530
+
+    Your commit message
+
+[33mcommit 558d62a8336e307c0e3cec6f4e6754b2187ef41f[m
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Tue Oct 17 23:31:09 2023 +0530
+
+    Ignore /env
+
+[33mcommit c109517153c6def69edfad2676588a053b43fa62[m
+Merge: d08d049 55052de
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Sun Aug 20 20:43:56 2023 +0530
+
+    Merge branch 'main' of https://github.com/FarziBuilder/Embedding
+
+[33mcommit d08d0499490d77ae662e6fe3f4db4a5d0ec0c5eb[m
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Sun Aug 20 20:42:58 2023 +0530
+
+    Your code
+
+[33mcommit 55052deb7ec7ff04f2de9c2e194312b1cc66f51b[m
+Author: FarziBuilder <112924717+FarziBuilder@users.noreply.github.com>
+Date:   Thu Aug 17 19:49:49 2023 +0530
+
+    Update README.md
+
+[33mcommit 9fe9cf3fe02869456f0299534e47e683412f3205[m
+Merge: b711d87 dc04a21
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Thu Aug 17 19:49:04 2023 +0530
+
+    Merge branch 'main' of https://github.com/FarziBuilder/Embedding
+
+[33mcommit b711d875a35de1db75a84a162600d6b5bb6780a4[m[33m ([m[1;32mmaster[m[33m)[m
+Author: FarziBuilder <faraaz@elixarsystems.com>
+Date:   Thu Aug 17 19:45:10 2023 +0530
+
+    Initial commit
+
+[33mcommit dc04a21b14862ecab155f9c369b73b3822944eec[m
+Author: FarziBuilder <112924717+FarziBuilder@users.noreply.github.com>
+Date:   Thu Aug 17 13:51:29 2023 +0530
+
+    Classification/Search/Recommendation in Embeddings
+
+[33mcommit 52c024ea2c8b1875ffb833962e865a2c1c2c9dbf[m
+Author: FarziBuilder <112924717+FarziBuilder@users.noreply.github.com>
+Date:   Thu Aug 17 13:49:31 2023 +0530
+
+    Chatbot over a YT transcript
+
+[33mcommit af08ea3962d70ddd5d5431183ed38c138b938683[m
+Author: FarziBuilder <112924717+FarziBuilder@users.noreply.github.com>
+Date:   Thu Aug 17 13:48:06 2023 +0530
+
+    Initial commit
